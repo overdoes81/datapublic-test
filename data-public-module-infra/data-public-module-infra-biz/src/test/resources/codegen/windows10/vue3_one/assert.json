@@ -1,0 +1,49 @@
+[ {
+  "contentPath" : "java/InfraStudentPageReqVO",
+  "filePath" : "data-public-module-infra/data-public-module-infra-biz/src/main/java/com.cty.statistic/module/infra/controller/admin/demo/vo/InfraStudentPageReqVO.java"
+}, {
+  "contentPath" : "java/InfraStudentRespVO",
+  "filePath" : "data-public-module-infra/data-public-module-infra-biz/src/main/java/com.cty.statistic/module/infra/controller/admin/demo/vo/InfraStudentRespVO.java"
+}, {
+  "contentPath" : "java/InfraStudentSaveReqVO",
+  "filePath" : "data-public-module-infra/data-public-module-infra-biz/src/main/java/com.cty.statistic/module/infra/controller/admin/demo/vo/InfraStudentSaveReqVO.java"
+}, {
+  "contentPath" : "java/InfraStudentController",
+  "filePath" : "data-public-module-infra/data-public-module-infra-biz/src/main/java/com.cty.statistic/module/infra/controller/admin/demo/InfraStudentController.java"
+}, {
+  "contentPath" : "java/InfraStudentDO",
+  "filePath" : "data-public-module-infra/data-public-module-infra-biz/src/main/java/com.cty.statistic/module/infra/dal/dataobject/demo/InfraStudentDO.java"
+}, {
+  "contentPath" : "java/InfraStudentMapper",
+  "filePath" : "data-public-module-infra/data-public-module-infra-biz/src/main/java/com.cty.statistic/module/infra/dal/mysql/demo/InfraStudentMapper.java"
+}, {
+  "contentPath" : "xml/InfraStudentMapper",
+  "filePath" : "data-public-module-infra/data-public-module-infra-biz/src/main/resources/mapper/demo/InfraStudentMapper.xml"
+}, {
+  "contentPath" : "java/InfraStudentServiceImpl",
+  "filePath" : "data-public-module-infra/data-public-module-infra-biz/src/main/java/com.cty.statistic/module/infra/service/demo/InfraStudentServiceImpl.java"
+}, {
+  "contentPath" : "java/InfraStudentService",
+  "filePath" : "data-public-module-infra/data-public-module-infra-biz/src/main/java/com.cty.statistic/module/infra/service/demo/InfraStudentService.java"
+}, {
+  "contentPath" : "java/InfraStudentServiceImplTest",
+  "filePath" : "data-public-module-infra/data-public-module-infra-biz/src/test/java/com.cty.statistic/module/infra/service/demo/InfraStudentServiceImplTest.java"
+}, {
+  "contentPath" : "java/ErrorCodeConstants_手动操作",
+  "filePath" : "data-public-module-infra/data-public-module-infra-api/src/main/java/com.cty.statistic/module/infra/enums/ErrorCodeConstants_手动操作.java"
+}, {
+  "contentPath" : "sql/sql",
+  "filePath" : "sql/sql.sql"
+}, {
+  "contentPath" : "sql/h2",
+  "filePath" : "sql/h2.sql"
+}, {
+  "contentPath" : "vue/index",
+  "filePath" : "data-public-ui-admin-vue3/src/views/infra/demo/index.vue"
+}, {
+  "contentPath" : "vue/StudentForm",
+  "filePath" : "data-public-ui-admin-vue3/src/views/infra/demo/StudentForm.vue"
+}, {
+  "contentPath" : "ts/index",
+  "filePath" : "data-public-ui-admin-vue3/src/api/infra/demo/index.ts"
+} ]

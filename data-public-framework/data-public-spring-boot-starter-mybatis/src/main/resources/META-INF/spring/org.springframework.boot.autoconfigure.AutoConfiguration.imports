@@ -1,0 +1,2 @@
+com.cty.statistic.framework.datasource.config.Data-publicDataSourceAutoConfiguration
+com.cty.statistic.framework.mybatis.config.Data-publicMybatisAutoConfiguration

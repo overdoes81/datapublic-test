@@ -1,0 +1,2 @@
+com.cty.statistic.framework.quartz.config.Data-publicQuartzAutoConfiguration
+com.cty.statistic.framework.quartz.config.Data-publicAsyncAutoConfiguration

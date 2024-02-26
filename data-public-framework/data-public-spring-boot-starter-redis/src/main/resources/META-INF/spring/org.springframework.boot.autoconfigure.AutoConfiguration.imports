@@ -1,0 +1,2 @@
+com.cty.statistic.framework.redis.config.Data-publicRedisAutoConfiguration
+com.cty.statistic.framework.redis.config.Data-publicCacheAutoConfiguration

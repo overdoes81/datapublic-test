@@ -1,0 +1,7 @@
+com.cty.statistic.framework.apilog.config.Data-publicApiLogAutoConfiguration
+com.cty.statistic.framework.jackson.config.Data-publicJacksonAutoConfiguration
+com.cty.statistic.framework.swagger.config.Data-publicSwaggerAutoConfiguration
+com.cty.statistic.framework.web.config.Data-publicWebAutoConfiguration
+com.cty.statistic.framework.xss.config.Data-publicXssAutoConfiguration
+com.cty.statistic.framework.banner.config.Data-publicBannerAutoConfiguration
+com.cty.statistic.framework.errorcode.config.Data-publicErrorCodeAutoConfiguration

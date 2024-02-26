@@ -1,0 +1,3 @@
+com.cty.statistic.framework.mq.redis.config.Data-publicRedisMQProducerAutoConfiguration
+com.cty.statistic.framework.mq.redis.config.Data-publicRedisMQConsumerAutoConfiguration
+com.cty.statistic.framework.mq.rabbitmq.config.Data-publicRabbitMQAutoConfiguration

@@ -1,0 +1,2 @@
+com.cty.statistic.framework.tracer.config.Data-publicTracerAutoConfiguration
+com.cty.statistic.framework.tracer.config.Data-publicMetricsAutoConfiguration

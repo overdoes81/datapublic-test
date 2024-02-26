@@ -1,0 +1,3 @@
+com.cty.statistic.framework.security.config.Data-publicSecurityAutoConfiguration
+com.cty.statistic.framework.security.config.Data-publicWebSecurityConfigurerAdapter
+com.cty.statistic.framework.operatelog.config.Data-publicOperateLogV2Configuration
